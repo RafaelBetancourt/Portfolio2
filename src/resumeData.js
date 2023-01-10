@@ -123,32 +123,36 @@ let resumeData = {
       {
         "name":"CountryApp",
         "description":"Single Page Application",
-        "imgurl":"images/portfolio/countries.jpg"
+        "imgurl":"images/portfolio/countries.jpg",
+        "link":"https://countriesclient-n2j89313s-rafaelbetancourt.vercel.app/"
       },
       {
         "name":"Fit Focus",
         "description":"Single Page Application",
-        "imgurl":"images/portfolio/nav-icon.png"
+        "imgurl":"images/portfolio/nav-icon.png",
+        "link":"https://pf-app-five.vercel.app/"
       },
       {
         "name":"Weather App",
-        "description":"Single Page Application",  
-        "imgurl":"images/portfolio/weather.jpg"
+        "description":"Esta single page aplicacion fue realizada como ejercicio de practica",  
+        "imgurl":"images/portfolio/weather.jpg",
+        "link":"https://github.com/RafaelBetancourt/Weather-App"
       },
       {
         "name":"Todo App",
         "description":"Single Page Application",
-        "imgurl":"images/portfolio/todo.jpg"
+        "imgurl":"images/portfolio/todo.jpg",
+        "link":"https://todo-app-rafabetancourt.netlify.app/"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a great guy",
+        "description":"Easy to work with him, always kind",
         "name":"David I. Cadenas"
       },
       {
-        "description":"This is a great partner",
-        "name":"Paola F. Vargas"
+        "description":"He is a great partner",
+        "name":"Romulo Carpio"
       }
     ]
   }
