@@ -25,7 +25,7 @@ let resumeData = {
         }
       ],
     "aboutme":"I'm currently looking for my first job experience . I am a full stack web developer graduated from henry's bootcamp, currently diving deeper in several technologies such as MongoBD, Typescript and NextJS, amog others. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"Peru",
+    "address":"Arequipa, Peru",
     "website":"https://www.linkedin.com/in/rafaelgbetancourto/",
     "education":[
       {
@@ -122,25 +122,25 @@ let resumeData = {
     "portfolio":[
       {
         "name":"CountryApp",
-        "description":"Single Page Application",
+        "description":"This personal single page application was created with Reactjs, CSS3, Nodejs, Sequelize and PostgreSQL as a requirement at Henry's bootcamp. \n Click here to visit.",
         "imgurl":"images/portfolio/countries.jpg",
         "link":"https://countriesclient-n2j89313s-rafaelbetancourt.vercel.app/"
       },
       {
         "name":"Fit Focus",
-        "description":"Single Page Application",
+        "description":"This grupal single page application was created with HTML5, Javascript, Reactjs, Tailwind, Typescript, Redux. Nodejs, Express, MongoDB, Mongoose. Click here to visit.",
         "imgurl":"images/portfolio/nav-icon.png",
         "link":"https://pf-app-five.vercel.app/"
       },
       {
         "name":"Weather App",
-        "description":"Esta single page aplicacion fue realizada como ejercicio de practica",  
+        "description":"This app was developed as a practice to manage correctly the external api calls, Click here to visit.",  
         "imgurl":"images/portfolio/weather.jpg",
         "link":"https://github.com/RafaelBetancourt/Weather-App"
       },
       {
         "name":"Todo App",
-        "description":"Single Page Application",
+        "description":"This app was developed as a practice to manage correctly the React states, Click here to visit.",
         "imgurl":"images/portfolio/todo.jpg",
         "link":"https://todo-app-rafabetancourt.netlify.app/"
       }
